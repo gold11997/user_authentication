@@ -73,3 +73,7 @@ This project provides a basic implementation of user authentication with passwor
 ### **Author**
 - Abraham Benson
  - Email: abrahambenson90@gmail.com
+
+## Resources
+### Video
+- [Watch on YouTube](https://youtu.be/Ud5xKCYQTjM?list=PLT3z09lsubSe0ulJj0vLPIMwe23JHkYgk)
